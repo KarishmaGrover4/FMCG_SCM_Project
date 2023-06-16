@@ -1,6 +1,7 @@
 ****Atliq Mart Supply Chain FMCG Project****
 
 Developed Supply Chain Analytics Challenge in FMCG Domain
+
 **Acknowledgements**
 
 The FMCG supply chain management project provides valuable insights into the domain of supply chain management in the FMCG industry. Key terms such as OT (On Time), OTIF (On Time In Full), IF (In Full), LIFR (Line Fill Rate), and VOFR (Volume Fill Rate) enhance the understanding of this industry-specific domain. Moreover, the project sheds light on the challenges associated with product delivery and identifies factors contributing to delays. We extend our gratitude to Codebasics and their team for recognizing and addressing this significant challenge. Their efforts have greatly contributed to the advancement of knowledge in this field.
