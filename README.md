@@ -36,7 +36,7 @@ I'm an Aspiring Data Analyst and looking for a good opportunity to analyse and b
 MYSQL, Power BI , Snowflake , Python , Excel, Tableau
 
 ## 🔗 Links
-[![portfolio]https://github.com/KarishmaGrover4/FMCG_SCM_Project)](https://github.com/KarishmaGrover4/)
+[https://github.com/KarishmaGrover4/FMCG_SCM_Project)](https://github.com/KarishmaGrover4/)
 [![linkedin](https://th.bing.com/th/id/R.d86a02cea4314ad84a6f8562d888daba?rik=7boInzS2mqO%2b%2bQ&riu=http%3a%2f%2fwww.newdesignfile.com%2fpostpic%2f2016%2f05%2flinkedin-logo-icon_398944.png&ehk=1ZK%2f%2b1Td3SF2PBvK6I32niBwp4512xV0%2bdDl1POzRcA%3d&risl=&pid=ImgRaw&r=0)](https://linkedin.com/in/karishma-grover)
 
 
