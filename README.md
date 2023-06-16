@@ -1,4 +1,4 @@
-**Atliq Mart Supply Chain FMCG Project**
+****Atliq Mart Supply Chain FMCG Project****
 
 Developed Supply Chain Analytics Challenge in FMCG Domain
 **Acknowledgements**
